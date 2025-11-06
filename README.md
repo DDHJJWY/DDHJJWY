@@ -27,7 +27,7 @@
 ### My achievements on [kaggle](https://www.kaggle.com/Supremacy rule):
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/discussion/light)
 -->
