@@ -79,7 +79,7 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/Dddhjjwy" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDHJJWY/DDHJJWY/master/assets/twitter.svg" alt="DDHJJWY" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDHJJWY/DDHJJWY/master/assets/linkedin.svg" alt="DDHJJWY" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/DDHJJWY" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDHJJWY/DDHJJWY/master/assets/linkedin.svg" alt="DDHJJWY" height="30" width="30" /></a>
 <a href="mailto:yht200857@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDHJJWY/DDHJJWY/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+911" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
@@ -89,7 +89,7 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="DDHJJWY" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DDHJJWY" alt="DDHJJWY" /></a>
 </p>
 
 
