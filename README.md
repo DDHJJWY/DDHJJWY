@@ -110,7 +110,7 @@ graph TD;
 
 
 <div align="center">
-<summary>Trophy: DDHJJWY Profile Trophy</summary>
+<summary>Trophy: HackerRank Profile Trophy</summary>
 </div>
 
 <p align="center"> 
