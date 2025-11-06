@@ -28,7 +28,7 @@
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/discussion/light)
 -->
 
