@@ -26,10 +26,10 @@
 <!--   my-kaggle     
 ### My achievements on [kaggle](https://www.kaggle.com/yht200857):
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/discussion/light)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yht200857/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yht200857/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yht200857/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yht200857/discussion/light)
 -->
 
 
