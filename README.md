@@ -24,7 +24,7 @@
 
 
 <!--   my-kaggle     
-### My achievements on [kaggle](https://www.kaggle.com/Supremacy rule):
+### My achievements on [kaggle](https://www.kaggle.com/yht200857):
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Supremacy rule/dataset/light)
