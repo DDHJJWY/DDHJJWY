@@ -58,7 +58,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DDHJJWY"></img>
 
 <!-- dark snake -->
-![DDHJJWY's github activity graph](https://raw.githubusercontent.com/DDHJJWY/DDHJJWY/output/github-contribution-grid-snake-dark.svg)
+![DDHJJWY's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
