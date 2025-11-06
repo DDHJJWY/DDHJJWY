@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://github.com/DDHJJWY/DDHJJWY"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/DDHJJWY/DDHJJWY/graphs/contributors"><img src="https://img.shields.io/github/contributors/DDHJJWY/DDHJJWY?color=blue"></a>
+    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/DDHJJWY/DDHJJWY?color=blue"></a>
     <a href="https://github.com/DDHJJWY/DDHJJWY/stargazers"><img src="https://img.shields.io/github/stars/DDHJJWY/DDHJJWY.svg?logo=github"></a>
     <a href="https://github.com/DDHJJWY/DDHJJWY/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
